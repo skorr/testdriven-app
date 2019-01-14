@@ -1,7 +1,7 @@
 # services/users/project/tests/test_users.py
 import json
 import unittest
-from flask import Blueprint, jsonify
+# from flask import Blueprint, jsonify
 from project.tests.base import BaseTestCase
 from project import db
 from project.api.models import User
